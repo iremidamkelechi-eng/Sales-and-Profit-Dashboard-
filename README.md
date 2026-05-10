@@ -1,7 +1,6 @@
 # Sales-and-Profit-Dashboard-
 Interactive Sales &amp; Profit Dashboard built in Microsoft Excel featuring automated charts, KPI tracking, macro-enabled workflows, and dynamic reporting. Designed to transform raw business data into actionable insights, improve reporting efficiency, and support executive-level decision-making.
 
-# Sales & Profit Performance Dashboard
 
 An interactive Sales & Profit Dashboard built in Microsoft Excel to support business reporting, KPI monitoring, and executive decision-making through automated analytics and visualization.
 
